@@ -1,1 +1,1 @@
-# Horario
+# HorarioClase
